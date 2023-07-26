@@ -25,7 +25,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"No test required\""
+    "test": "echo \"No test required\"",
+    "start": "node app"
   },
   "keywords": [],
   "author": "",
